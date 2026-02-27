@@ -1,1 +1,1 @@
-# Recognize_Emotions
+# Bài toán nhận diện cảm xúc bằng mô hình CNN tham khảo từ mô hình ResNet18
